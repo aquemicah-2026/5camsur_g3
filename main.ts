@@ -1,0 +1,8 @@
+Tinybit.RGB_Car_Big(Tinybit.enColor.Green)
+Tinybit.CarCtrlSpeed(Tinybit.CarState.Car_Run, 50)
+Tinybit.CarCtrlSpeed(Tinybit.CarState.Car_Right, 50)
+Tinybit.RGB_Car_Big(Tinybit.enColor.Yellow)
+Tinybit.CarCtrlSpeed(Tinybit.CarState.Car_Back, 50)
+Tinybit.RGB_Car_Big(Tinybit.enColor.Red)
+Tinybit.Music_Car(Tinybit.enMusic.blues)
+Tinybit.CarCtrl(Tinybit.CarState.Car_Stop)
